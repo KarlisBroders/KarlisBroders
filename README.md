@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarlisBroders
 - 👀 I’m interested in Functional programming, event sourcing, C# and Javascript (React)
 - 🌱 I’m currently learning Data-oriented programming approaches
-- 📫 How to reach me >> linkedin
+- 📫 How to reach me >> www.linkedin.com/in/cto
 
 <!---
 KarlisBroders/KarlisBroders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
